@@ -30,13 +30,13 @@ DB_USER=''
 DB_PASSWORD=''
 DB_PORT=''
 ```
-### Back end
+### Back-end
 - Create a python virtual environment and install requirements.txt.
 - Run `scripts/flask.sh` to set up the back end.
 ### Database
 - Run `scripts/postgres.sh` to create db container
 - Connect to DB and run scripts in sql folder (base.sql, teams.sql, drivers.sql,...) In order
 
-### Front end  
+### Front-end  
 - Install packages in front end folder with `npm install`
 - Run `npm start`
