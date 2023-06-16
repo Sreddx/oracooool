@@ -1,5 +1,5 @@
 
-# Oracooool Formula 1 web app:
+# Oracooool Formula 1 web app
 
 Web application that allows people to learn about the formula 1 rules, make predictions and share predictions with their friends.  
 
